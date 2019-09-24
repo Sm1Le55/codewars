@@ -58,4 +58,5 @@
     <li>✔<a href="https://www.codewars.com/kata/59c68ea2aeb2843e18000109">Financing a purchase</a></li>
     <li>✔<a href="https://www.codewars.com/kata/541c8630095125aba6000c00">Sum of Digits / Digital Root</a></li>
     <li>✔<a href="https://www.codewars.com/kata/514b92a657cdc65150000006">Multiples of 3 or 5</a></li>
+    <li>✔<a href="https://www.codewars.com/kata/585d7d5adb20cf33cb000235">Find the unique </a>number</li>
 </ol>
