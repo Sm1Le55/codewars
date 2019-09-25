@@ -62,4 +62,5 @@
     <li>✔<a href="https://www.codewars.com/kata/5544c7a5cb454edb3c000047">Bouncing Balls</a></li>
     <li>✔<a href="https://www.codewars.com/kata/56a5d994ac971f1ac500003e">Consecutive strings</a></li>
     <li>✔<a href="https://www.codewars.com/kata/5a420163b6cfd7cde5000077">Ranking NBA teams</a></li>
+    <li>✔<a href="https://www.codewars.com/kata/550498447451fbbd7600041c">Are they the "same"?</a></li>
 </ol>
