@@ -60,4 +60,5 @@
     <li>✔<a href="https://www.codewars.com/kata/514b92a657cdc65150000006">Multiples of 3 or 5</a></li>
     <li>✔<a href="https://www.codewars.com/kata/585d7d5adb20cf33cb000235">Find the unique number</a></li>
     <li>✔<a href="https://www.codewars.com/kata/5544c7a5cb454edb3c000047">Bouncing Balls</a></li>
+    <li>✔<a href="https://www.codewars.com/kata/5544c7a5cb454edb3c000047">Consecutive strings</a></li>
 </ol>
