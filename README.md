@@ -66,3 +66,8 @@
     <li>✔<a href="https://www.codewars.com/kata/517abf86da9663f1d2000003">Convert string to camel case</a></li>
     <li>✔<a href="https://www.codewars.com/kata/586538146b56991861000293">If you can read this...</a></li>
 </ol>
+
+<h2> 5 kyu </h2>
+<ol>
+    <li>✔<a href="https://www.codewars.com/kata/586538146b56991861000293">Maximum subarray sum</a></li>
+</ol>
