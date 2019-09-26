@@ -64,4 +64,5 @@
     <li>✔<a href="https://www.codewars.com/kata/5a420163b6cfd7cde5000077">Ranking NBA teams</a></li>
     <li>✔<a href="https://www.codewars.com/kata/550498447451fbbd7600041c">Are they the "same"?</a></li>
     <li>✔<a href="https://www.codewars.com/kata/517abf86da9663f1d2000003">Convert string to camel case</a></li>
+    <li>✔<a href="https://www.codewars.com/kata/586538146b56991861000293">If you can read this...</a></li>
 </ol>
