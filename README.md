@@ -80,4 +80,5 @@
 <h2> 4 kyu </h2>
 <ol>
     <li>✔<a href="https://www.codewars.com/kata/529bf0e9bdf7657179000008">Sudoku Solution Validator</a></li>
+    <li>✔<a href="https://www.codewars.com/kata/54b72c16cd7f5154e9000457">Decode the Morse code, advanced</a></li>
 </ol>
