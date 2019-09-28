@@ -76,3 +76,8 @@
     <li>✔<a href="https://www.codewars.com/kata/55c6126177c9441a570000cc">Weight for weight</a></li>
     <li>✔<a href="https://www.codewars.com/kata/52774a314c2333f0a7000688">Valid Parentheses</a></li>
 </ol>
+
+<h2> 4 kyu </h2>
+<ol>
+    <li>✔<a href="https://www.codewars.com/kata/529bf0e9bdf7657179000008">Sudoku Solution Validator</a></li>
+</ol>
