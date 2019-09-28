@@ -72,4 +72,5 @@
 <ol>
     <li>✔<a href="https://www.codewars.com/kata/586538146b56991861000293">Maximum subarray sum</a></li>
     <li>✔<a href="https://www.codewars.com/kata/550f22f4d758534c1100025a">Directions Reduction</a></li>
+    <li>✔<a href="https://www.codewars.com/kata/56baeae7022c16dd7400086e">Phone Directory</a></li>
 </ol>
