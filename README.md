@@ -67,6 +67,7 @@
     <li>✔<a href="https://www.codewars.com/kata/586538146b56991861000293">If you can read this...</a></li>
     <li>✔<a href="https://www.codewars.com/kata/515de9ae9dcfc28eb6000001">Split Strings</a></li>
     <li>✔<a href="https://www.codewars.com/kata/550554fd08b86f84fe000a58">Which are in?</a></li>
+    <li>✔<a href="https://www.codewars.com/kata/5264d2b162488dc400000001">Stop gninnipS My sdroW!</a></li>
 </ol>
 
 <h2> 5 kyu </h2>
