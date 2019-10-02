@@ -69,7 +69,8 @@
     <li>✔<a href="https://www.codewars.com/kata/550554fd08b86f84fe000a58">Which are in?</a></li>
     <li>✔<a href="https://www.codewars.com/kata/5264d2b162488dc400000001">Stop gninnipS My sdroW!</a></li>
     <li>✔<a href="https://www.codewars.com/kata/5277c8a221e209d3f6000b56">Valid Braces</a></li>
-    <li>✔<a href="https://www.codewars.com/kata/52b757663a95b11b3d00062d">WeIrD StRiNg CaSe</a></li>    
+    <li>✔<a href="https://www.codewars.com/kata/52b757663a95b11b3d00062d">WeIrD StRiNg CaSe</a></li>
+    <li>✔<a href="https://www.codewars.com/kata/515decfd9dcfc23bb6000006">IP Validation</a></li>
 </ol>
 
 <h2> 5 kyu </h2>
